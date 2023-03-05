@@ -1,4 +1,5 @@
 <?php
+    ob_start();
     session_start();
     include_once "conexao.php";
 ?>
@@ -149,4 +150,4 @@
         </div>
     </div>
 </body>
-</html>
+</html><?php ob_end_flush(); ?>

@@ -24,7 +24,7 @@
             <div class="col-sm-8">
                 <div class="card">
                     <div class="card-body ">
-                        <h4 class="text-center mb-3" style="color:#00ff00";>Parabéns você chegou até ao final sem desistir!</h4>
+                        <h4 class="text-center mb-3" style="color:#00ff00";>Parabéns arrombado, você chegou até ao final!</h4>
                         
                         <center>
                             <a href="index.php" class="btn btn-primary">Voltar ao início</a>
